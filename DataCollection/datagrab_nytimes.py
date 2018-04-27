@@ -2,15 +2,16 @@ import csv
 import time
 import urllib2
 import json
-count = 201
+count = 88
 while (1):
     if (count > 900):
         break;
     #dataurl = urllib2.urlopen('http://api.wunderground.com/api/e13fb09d4cd8343c/conditions/q/14214.json')
     key1 = 'f6394352039340ebb6d53343e41af8c3'
-    key2 = '9995690d2daa49c098c69bdd24cd80ec'
-    url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json?api-key='+key2+'&q=trump&begin_date=20180301&end_date=20180405&fl=lead_paragraph%2Cabstract%2Cheadline%2Csnippet%2Cweb_url&page='+str(count)
+    #key2 = '9995690d2daa49c098c69bdd24cd80ec'
+    url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json?api-key='+key1+'&q=travel&begin_date=20180101&end_date=20180424&fl=section_name%2Cweb_url%2Clead_paragraph&page='+str(count)
     print (" Count : ",count," attempting :",url)
+    #time.sleep(1999);
     dataurl = urllib2.urlopen(url)
     data_string = dataurl.read()
     data_json = json.loads(data_string)
@@ -22,7 +23,7 @@ while (1):
     if (breakflag):
         print ("brekflag set breaking")
         break;
-    with open("trump_2018_mar1_till_now/"+str(count)+".json",'w') as out_json:
+    with open("travel_jan1_till_now/"+str(count)+".json",'w') as out_json:
         json.dump(data_json, out_json)
         out_json.close()
     dataurl.close()

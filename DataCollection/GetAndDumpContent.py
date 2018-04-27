@@ -8,6 +8,11 @@ import sys
 if (sys.argv[1] is None):
     pass
 
+if (sys.argv[2] is None):
+    pass
+
+matchString = sys.argv[2]
+
 file_names = [f for f in listdir(sys.path[0]+"/"+sys.argv[1])]
 ff = open(sys.path[0]+"/"+sys.argv[1]+".txt","w+")
 
@@ -21,6 +26,11 @@ for name in file_names:
 
     for item in range(len(frame_data['response']['docs'])):
         html = frame_data['response']['docs'][item]['web_url']
+        section  = frame_data['response']['docs'][item]['section_name']
+        print ("html :",html," section:",section)
+        if (matchString.lower() != section.lower()):
+            print ("continuing...")
+            continue;
         if ("http" not in html):
             continue;
         try: f = urllib2.urlopen(html)
