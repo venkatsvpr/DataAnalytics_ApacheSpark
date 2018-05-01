@@ -1,0 +1,25 @@
+We are thrilled to announce that we have begun to enable HTTPS on NYTimes.com, an effort that helps protect the privacy of our readers and ensures the authenticity of our content. This is a significant milestone in the 21-year history of our website, and though it’s taken us some time, we are very excited to share this with our readers. What’s included?
+NYTimes.com consists of millions of pages, so we’ve prioritized HTTPS for areas of our site that  receive the most visits. You should already be seeing a padlock next to our URL in your browsers on the following:
+
+The NYTimes.com home page
+Articles published in 2014 and later
+Most section, column and topic pages
+The NYTimes.com mobile site
+Most blog pages
+TimesVideo
+Podcast pages
+
+What Does This Mean for You?
+
+ Improved privacy: HTTPS encrypts the data sent between your computer and our servers, making it more difficult for a third party to monitor what you are doing. While HTTPS will not hide the fact that you are visiting NYTimes.com, it will significantly diminish the ability of a third party, such as your internet provider, to see which articles you are reading.
+ Authentic news: Another benefit of HTTPS is that it validates that your computer is communicating with the website you intended to reach, and that any data you receive has not been modified in-transit. When you see the padlock in your address bar, the browser has validated that you are getting authentic NYTimes.com content.
+ Enhanced experience: Some newer web technologies are only made available to HTTPS pages. As we implement HTTPS, we are able to take advantage of these features to make our pages load faster, create innovative interactive projects and provide more personalized content.
+
+HTTPS for the News
+The benefits of HTTPS that we wrote about in 2014 remain relevant today. Other media companies have migrated to HTTPS: The Washington Post, Wired, BuzzFeed, The Guardian, and most recently, Quartz. (For more information, the Freedom of the Press Foundation launched a service to track HTTPS implementations on many major media sites.) 
+It’s been a complex undertaking for us and we’ve discovered a lot in the process. We’ll be sharing a deeper dive into the technical aspects and the challenges we encountered on our journey to HTTPS.
+What’s Next?
+This is just the beginning, and we intend to bring the rest of our site under the HTTPS umbrella. There is still a significant amount of work remaining, but we are committed to seeing it through. Securing our site is good for our users and the right thing to do. Our core purpose as a company is “to enhance society by creating, collecting and distributing high-quality news and information.” We believe the implementation of HTTPS furthers this purpose.
+What Does This Mean for You?HTTPS for the News
+The benefits of HTTPS that we wrote about in 2014 remain relevant today. Other media companies have migrated to HTTPS: The Washington Post, Wired, BuzzFeed, The Guardian, and most recently, Quartz. (For more information, the Freedom of the Press Foundation launched a service to track HTTPS implementations on many major media sites.) It’s been a complex undertaking for us and we’ve discovered a lot in the process. We’ll be sharing a deeper dive into the technical aspects and the challenges we encountered on our journey to HTTPS.What’s Next?
+This is just the beginning, and we intend to bring the rest of our site under the HTTPS umbrella. There is still a significant amount of work remaining, but we are committed to seeing it through. Securing our site is good for our users and the right thing to do. Our core purpose as a company is “to enhance society by creating, collecting and distributing high-quality news and information.” We believe the implementation of HTTPS furthers this purpose.

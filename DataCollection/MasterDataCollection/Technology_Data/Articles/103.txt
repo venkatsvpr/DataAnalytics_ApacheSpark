@@ -1,0 +1,6 @@
+
+Bits By                     
+ JIM KERSTETTER
+ 
+FEB. 25, 2016
+In many ways, the current battle between Apple and the F.B.I. really began in June 2013, when the former defense contractor Edward J. Snowden revealed the scale of government spying on domestic Internet traffic.Usually, tech companies faced with often-secret court orders cooperated with this snooping. But the industry has since come to believe, thanks to the Snowden documents, that despite their cooperation, national security agents were also hacking into their networks.Given that history, it should surprise no one that Apple is digging in its heels on a court order requiring it to create software that would help law enforcement gain access to a password-protected iPhone that belonged to one of the gunmen in the December mass shooting in San Bernardino, Calif.But Apple engineers, as The New York Times reported Wednesday, are working on technology that would make even that impossible. If Apple should succeed, it will present an even tougher barrier to government snoops. And law enforcement, in turn, would have to find a way around that.After that? Some believe the only way to stop the back-and-forth would be for Congress to get involved.We’re interested in your feedback on this page. Tell us what you think.See More »
