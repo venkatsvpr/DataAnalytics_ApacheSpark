@@ -1,0 +1,14 @@
+The pioneering blues singer and guitarist B. B. King, who won over a dozen Grammy Awards and is perhaps best known for the song “The Thrill Is Gone,” died on Thursday in Las Vegas. He was 89.Mr. King was born in 1925, the son of sharecroppers in Mississippi. He had a career that began in the 1940s, kicked into high gear in the last years of the 1960s, and continued full-throttle until last fall, when he canceled a tour citing poor health.The British singer-songwriter and guitarist Eric Clapton, who drew inspiration from Mr. King as a young musician and collaborated with him on the 2000 album “Riding With the King,” shared a tribute to Mr. King on his Facebook page.
+
+window.fbAsyncInit = function() {
+    FB.init({
+        xfbml      : true,
+        version    : 'v2.3'
+    });
+    }; (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));

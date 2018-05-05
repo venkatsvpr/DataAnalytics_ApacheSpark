@@ -1,0 +1,13 @@
+This story was first published in 2015, and we’re resurfacing it for Smarter Living.How do you form your good and bad habits? Are you a people-pleaser, willing to take on a task for others, but less willing to take care of yourself? Or maybe you’re a rebel, and you are less likely than others to do as you are told when it comes to taking medication or adopting a healthful lifestyle.To learn more about the personality traits that help us form good and bad habits, take this quiz, created by Gretchen Rubin, author of the new book “Better Than Before: Mastering the Habits of Our Everyday Lives.” Once you learn your habit style, join our Well Book Club conversation with Ms. Rubin to discuss steps you can take to get better at forming good habits.
+
+require(['foundation/main'], function () {
+require(['nytint/balloteer/chad'], function (Chad) {
+if (Chad.ballots['rubin-four-tendencies']) {
+Chad.ballots['rubin-four-tendencies'].promises.markup_ready.done(function() {
+setTimeout(function() {
+if (Chad.ballots['rubin-four-tendencies'].root.find(".score-button").length > 0) { Chad.ballots['rubin-four-tendencies'].root.find(".score-button").hide(); Chad.ballots['rubin-four-tendencies'].modules.quiz._show_grade(); }
+},1000);
+});
+}
+});
+});

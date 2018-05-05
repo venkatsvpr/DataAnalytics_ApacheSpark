@@ -1,0 +1,25 @@
+
+
+      By ANJALI SINGHVI and 
+    
+KARL RUSSELL
+
+UPDATED July 12, 2016
+
+After Joshua Brown, 40, of Canton, Ohio, was killed driving a Tesla Model S in the first fatality involving a self-driving car, questions have arisen about the safety of the car’s crash-avoidance Autopilot system. Tesla told Senate investigators that a “technical failure” of the automatic braking system played a role but maintains that Autopilot was not at fault.
+
+The Tesla Model S crashed in northern Florida into a truck that was turning left in front of it. The Tesla then ran off the road, hitting a fence and a power pole before coming to a stop.
+              
+              
+            
+US 27Trailer turns left in front of the Tesla1Tesla doesn’t stop,hitting the trailer andtraveling under it23FENCETesla veers off roadand strikes two fences and a power pole POWER POLE1Trailer turns left in front of the TeslaUS 272Tesla doesn’t stop, hitting the trailer and traveling under it3FENCETesla veers off road and strikes two fences and a power pole POWER POLE
+The Tesla uses a computer vision-based vehicle detection system, but according to the company, it is not intended to be used hands-free and parts of the system are unfinished.The accident may have happened in part because the crash-avoidance system is designed to engage only when radar and computer vision systems agree that there is an obstacle, according to an industry executive with direct knowledge of the system.
+              
+              
+            
+Forward-facing cameraImage-processing software can detect lane stripes, signs, stoplights, road signs and other objects.Forward radarReflected microwaves can identify location and speed — but not always type — of nearby vehicles.Utrasonic sensorsReflected sound waves detect distance to nearby objects.GPSCombined with high-precision mapping, GPS determines the car’s position on the road.
+Google does not intend to make its own cars but to partner with carmakers, and recently announced plans to adapt 100 Chrysler minivans for autonomous driving. Google’s cars primarily use a laser system known as Lidar (light detection and ranging), a spinning range-finding unit on top of the car that creates a detailed map of the car’s surroundings as it moves.Lidar is also used on many of the experimental autonomous vehicles being developed by Nissan, BMW, Apple and others, but not by Tesla. Some experts speculate that a Lidar-driven car might have avoided this fatal crash.
+              
+              
+            
+Collision avoidanceRadar-, laser-, or camera-based systems that warn drivers of an impending collision using lights, noises or other cues. Some systems can recognize a person straying into the road. If the driver ignores the warnings, some systems can apply the brakes.Drifting warningWhen your car begins to deviate from its lane, some systems alert the driver with a warning buzzer, light and small counter-steering force to the steering wheel.Blind-spot detectorsUses cameras or radar to detect vehicles diagonally behind a car, in the driver’s blind spot. Alerts the driver with sounds or warning lights in the rearview mirror or in the car’s A-pillar.Enhanced cruise controlMaintains a predefined distance to a vehicle ahead. If it slows, your car automatically slows also. If a car moves into your lane, your car slows to keep its distance. Very useful in bumper-to-bumper traffic.Self parkingThe car maneuvers itself into a parking spot using cameras or sonars. But the driver usually brakes and has to follow commands. It first appeared in 2003 in the Toyota Prius. It is now offered by BMW, Ford and many others.Reporting contributed by Kevin GranvilleAdvertisement

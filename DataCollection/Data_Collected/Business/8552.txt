@@ -1,0 +1,5 @@
+
+AUG. 28, 2015
+
+The credit default swaps for North American companies with the biggest one-day change in either tightening (reduced risk) or widening (increased risk), as provided by Markit. Data reflects the index level at the close of the previous trading day, and the one-day change.
+Credit default swaps are financial contracts that effectively provide their buyers with insurance against a default by a company or country. Investors and traders use them to speculate on the creditworthiness of a country or company, or to hedge other bets. If, say, investors believe that a company is going to be less creditworthy, the cost of insuring against its default goes up, and the cost of the swap increases. This is called widening. When investors are more optimistic about the company, the cost of the swap, also called its “spread,” gets smaller or tightens. Advertisement

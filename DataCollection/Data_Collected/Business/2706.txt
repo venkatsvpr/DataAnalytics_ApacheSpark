@@ -1,0 +1,4 @@
+
+JAN. 18, 2015
+
+The “Popular Demand” listing in the Most Wanted chart on Monday misstated the metric for social media activity used by General Sentiment, an analytics company. Its so-called GS score is an index of online “conversations,” in this instance measured in the thousands, that mention a movie or person over a 24-hour period, not single mentions during that period.Advertisement

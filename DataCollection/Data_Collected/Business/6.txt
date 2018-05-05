@@ -1,0 +1,13 @@
+
+
+      By GREGOR AISCH, 
+    
+WILSON ANDREWS and 
+    
+JOSH KELLER
+
+OCT. 1, 2015
+
+Ad blockers, which Apple first allowed on the iPhone in September, promise to conserve data and make websites load faster. But how much of your mobile data comes from advertising? We measured the mix of advertising and editorial on the mobile home pages of the top 50 news websites – including ours – and found that more than half of all data came from ads and other content filtered by ad blockers. Not all of the news websites were equal.
+Related Article
+The amount of data each website uses can vary. To get these figures, we loaded each home page on an iPhone 6 at least five times over two days and repeated the test with an ad blocker enabled.The difference was easy to spot: many websites loaded faster and felt easier to use. Data is also expensive. We estimated that on an average American cell data plan, each megabyte downloaded over a cell network costs about a penny. Visiting the home page of Boston.com every day for a month would cost the equivalent of about $9.50 in data usage just for the ads.Of course, news websites are supported by online ads, and if enough people block the ads the sites may struggle. Ad blockers can also have technical downsides, sometimes causing websites to load erratically. In one of our tests, one website crashed repeatedly when an ad blocker was turned on.Note: Data is averaged from 10 visits to each website's home page on an iPhone 6 over two days. Estimates for load times assume favorable network conditions and may be understated. The data does not account for text compression, which reduces the size of text files.Sources: New York Times analysis; Pew Research Center and comScore (top 50 news websites)An earlier version of a chart with this article breaking down the content on The Guardian’s website based on which has ad blockers and which does not mislabeled some editorial content as advertising.Two tests were carried out with ad blockers: one to measure how much loading times were improved and the second to study battery life.Apps that block all ads are threatening some web publishers’ livelihoods, which in turn could threaten some content on the web.Two tests were carried out with ad blockers: one to measure how much loading times were improved and the second to study battery life.AdvertisementTwo tests were carried out with ad blockers: one to measure how much loading times were improved and the second to study battery life.Apps that block all ads are threatening some web publishers’ livelihoods, which in turn could threaten some content on the web.Two tests were carried out with ad blockers: one to measure how much loading times were improved and the second to study battery life.

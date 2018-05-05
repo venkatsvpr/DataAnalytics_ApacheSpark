@@ -1,0 +1,95 @@
+Solve a medical mystery with Dr. Lisa Sanders.The Challenge: Can you figure out what is wrong with a young woman with a headache that has lasted for months who becomes too dizzy to walk?Every month, the Diagnosis column of The New York Times Magazine asks Well readers to try their hand at solving a real-life medical mystery. Below you will find the story of a 21-year-old college junior with chronic headaches who suddenly became too dizzy to walk even as far as her own bathroom. I have provided the information that was available to the medical student who saw her in the hospital, where she was finally able to figure out which test was needed to make the right diagnosis. Full disclosure: This med student had never heard of the disorder the patient was ultimately diagnosed with.The first reader to offer the correct diagnosis gets a signed copy of my book, “Every Patient Tells a Story,” along with that feeling of satisfaction that comes from solving a difficult but really cool case.A Bad Start to the DayA few snowflakes had made their way to the ground when the 21-year-old college junior awoke. She hadn’t been feeling well for the past few days. Taking it easy hadn’t helped. She was still tired. Still sore. And the pounding behind her forehead that dogged her for the past few weeks was still lurking just behind her eyes. She had just gotten over a cold when she came home for Christmas break three weeks earlier. Was it coming back?  Getting out of bed she felt even worse — lightheaded and off-balance, weak and tired and kind of queasy. She took a few tentative steps. There was a rushing sound in her ears and soft grey fuzz appeared at the edge of her vision. Black and gray dots like an untuned TV set darkened the room. A couple more steps and the black and gray rushed in. The next thing she knew, she was falling to the floor. She might have blacked out but wasn’t really sure. She got up slowly and, holding on to the wall for support, made it to the bathroom. The young woman stood at the sink, looking in the mirror. All the color was gone from her face. Even her lips had a greyish tint. Suddenly the rushing noise started again. The gray softness approached and she felt like she might faint again. She sat on the toilet and put her head down. Her body felt strangely heavy, as if she had been working out all morning rather than sleeping. She eased her way back to her room, back to the soft safety of her bed.
+Then she called her doctor. The soonest she could get an appointment was in a couple of days. She took the appointment, hoping that she would feel better before then. But when her mother stopped in to check on her a couple of hours later, she felt even worse. It was, she decided, time to go to the hospital.The Patient’s HistoryThe young woman’s parents had to help her into the emergency room at the Beth Israel Deaconess Medical Center in Boston. She was too dizzy to walk, she told the young emergency department resident, and then recounted the events of the morning and the days before. Did she have any other medical problems? the doctor asked. Actually, she did. Eighteen months earlier she had had surgery on her back. Twice. Once to fix a pinched nerve, and once to cut out the infection that somehow took root there afterward. She had been on antibiotics for months after that. And then, just a few months earlier, someone ran a red light, smashing into her car, and she had had headaches from the whiplash ever since. She also had a little asthma and a little scoliosis. Other than that she was a just your regular, hard-working college student.  She didn’t smoke, she didn’t use drugs. She had a glass of wine every now and then. She took a birth control pill every day. The only other medications she took were those she had been prescribed for her headaches: a painkiller, a medicine to help her sleep when she needed it and an antidepressant. The pain specialist had stopped the pain med and cut her dose of the antidepressant when she told him about the dizziness a few days earlier, in case they were part of the problem. It hadn’t helped.
+A Common ComplaintDizziness is one of the most common complaints doctors hear in the emergency room. One in every 25 patients seen in the E.R. is there for that reason. The trick for the doctor is to distinguish between two fundamentally different types of dizziness: vertigo, characterized by a sensation of movement, either within your own body or in the room you are standing in; and lightheadedness, or what is called pre-syncope — a sense that you might be about to faint. These symptoms sound so different, and yet patients often have difficulty deciding which better describes their dizziness. But the causes of these two types of symptoms are quite different, so it is important information. The first E.R. doctor, a resident, thought the young woman had vertigo and requested a neurologist see and assess her. She thought it was probably a middle ear problem but wanted to make sure she hadn’t missed anything more serious. The attending E.R. doctor thought the patient was most probably lightheaded, probably from dehydration. The patient had told her that she hadn’t been eating or drinking as usual for the past couple of days because she hadn’t felt well. She ordered intravenous fluids for the dehydration and a CT scan to make sure she wasn’t missing anything. You can view the emergency room notes here.
+  require(["foundation/main"], function() {
+    require(["https://int.nyt.com/docker/doc-doctor/assets/mobile_doc_viewer-b0e5a1624e47393de5fa826ffe25f57d.js"], function(){
+      DV.flexLoad("//www.documentcloud.org/documents/1658585-1er-records-redacted.js", {
+        container: "#DV-viewer-1658585-1er-records-redacted",
+        text: false,
+        sidebar: false,
+        page: 1,
+        width: 945,
+        height: 980
+      });
+    });
+  });
+
+
+  var canonical = document.querySelector("link[rel='canonical']").href,
+      pageview = ['_trackPageview'];</p>
+<p class="story-body-text" itemprop="articleBody">  if (canonical) {
+    var a = document.createElement('a');
+    a.href = canonical;
+    if (a.pathname != document.location.pathname) pageview.push(a.pathname);
+  }</p>
+<p class="story-body-text" itemprop="articleBody">  _gaq = [['_setAccount', 'UA-9262032-1'], pageview];
+
+A Neurologic ExamIn talking with the patient, the neurologist focused on the headaches that now seemed to be associated with the dizziness. They had started just a few months earlier and over these last few days had gotten much worse, especially when the patient stood up. The headaches were located primarily behind her forehead and eyes but seemed to start in her neck. Sometimes they were associated with nausea plus the dizziness. In addition, the patient thought that she was thinking a little less clearly, that her concentration was not as good as usual, these past few days. Her exam was remarkable only for one unusual finding. When the neurologist looked into her eye with his handheld lens, part of her retina looked a little blurry. Normally, using this instrument, you can see the back of the eye, and the retina is sharp and clear. In this patient’s left eye, there was an area that looked blurry and out of focus. That finding made the specialist worry that she had increased pressure inside her skull. This can be caused by a tumor but, since the rest of her exam was normal, the neurologist thought it was more likely to be what is called pseudotumor cerebri. For reasons that are not well understood, young people – mostly women, mostly obese – will end up with too much of the fluid in the brain that normally cushions the brain and keeps it safe inside the hard shell of the skull. Like so many aspects of the body, the right amount of this liquid, called cerebral spinal fluid, or C.S.F., is essential. Too much or too little can be devastating. Although this condition had been known as benign intracranial hypertension – to distinguish it from increased pressure due to a tumor – it could cause devastating headaches and sometimes a loss of vision. She was an unlikely candidate for this disorder; more than 90 percent of patients with pseudotumor cerebri are obese, and this woman was quite slender. Still, the headache and the blurry area seen within her eye on exam were concerning. The neurologist also wanted a head CT to make sure he didn’t miss a tumor, and recommended that they check the pressure of the C.S.F. by performing a lumbar puncture, also known as a spinal tap. Measuring the pressure within that system would tell them if the young woman had the disorder, and removing some of the fluid would get rid of the headache, at least temporarily. You can see the neurologist’s note here.
+
+  DV.load("//www.documentcloud.org/documents/1658587-1neuro-notes-redacted.js", {
+        container: "#DV-viewer-1658587-1neuro-notes-redacted",
+        sidebar: true,
+        text: false,
+        page: 1,
+        responsive: true,
+        width: 945,
+        height: 980
+  });
+
+
+  var canonical = document.querySelector("link[rel='canonical']").href,
+      pageview = ['_trackPageview'];</p>
+<p class="story-body-text" itemprop="articleBody">  if (canonical) {
+    var a = document.createElement('a');
+    a.href = canonical;
+    if (a.pathname != document.location.pathname) pageview.push(a.pathname);
+  }</p>
+<p class="story-body-text" itemprop="articleBody">  _gaq = [['_setAccount', 'UA-9262032-1'], pageview];
+
+The CT scan was normal. You can see that report here.
+
+  DV.load("//www.documentcloud.org/documents/1658586-1head-ct-report-redacted.js", {
+        container: "#DV-viewer-1658586-1head-ct-report-redacted",
+        sidebar: true,
+        text: false,
+        page: 1,
+        responsive: true,
+        width: 945,
+        height: 980
+  });
+
+
+  var canonical = document.querySelector("link[rel='canonical']").href,
+      pageview = ['_trackPageview'];</p>
+<p class="story-body-text" itemprop="articleBody">  if (canonical) {
+    var a = document.createElement('a');
+    a.href = canonical;
+    if (a.pathname != document.location.pathname) pageview.push(a.pathname);
+  }</p>
+<p class="story-body-text" itemprop="articleBody">  _gaq = [['_setAccount', 'UA-9262032-1'], pageview];
+
+The spinal tap couldn’t be performed in the E.R. because the patient had a history of spinal surgery. So, when after several hours and two liters of fluids, the patient felt no better, she was admitted for further work up. You can see the admission note here.
+
+  DV.load("//www.documentcloud.org/documents/1658584-1admission-notes-redacted.js", {
+        container: "#DV-viewer-1658584-1admission-notes-redacted",
+        sidebar: true,
+        text: false,
+        page: 1,
+        responsive: true,
+        width: 945,
+        height: 980
+  });
+
+
+  var canonical = document.querySelector("link[rel='canonical']").href,
+      pageview = ['_trackPageview'];</p>
+<p class="story-body-text" itemprop="articleBody">  if (canonical) {
+    var a = document.createElement('a');
+    a.href = canonical;
+    if (a.pathname != document.location.pathname) pageview.push(a.pathname);
+  }</p>
+<p class="story-body-text" itemprop="articleBody">  _gaq = [['_setAccount', 'UA-9262032-1'], pageview];
+
+All in Her Head? Christine Ament, the fourth year medical student on the neurology service, went to see the patient the next morning. Before meeting her, she reviewed the notes from the day before. The patient was on an antidepressant and an anxiety medicine for sleep. Plus, she was seen at a pain clinic. Ms. Ament had noticed that these factors sometimes led doctors to look for a psychiatric cause of symptoms first, rather than last, and that might give her the chance of figuring out the case. If if could be figured out. The patient was cheerful and pleasant and just a few years younger than the med student. Ms. Ament took her time getting the story. It seemed odd for an active and high-performing student like this to come to the hospital right before exams, and she was determined to figure out what was wrong — already the young medical student had an idea of where to look. Solving the MysterySomething in the history and the physical exam started Ms. Ament on the path to the right diagnosis and, with the help of the neurologist, she was able to figure out what was going on. Can you see what she saw? Can you figure out what was making this young woman feel so bad? Post your answers in the comments section. I’ll post the answer on Thursday. Updated, Thursday 7:04 p.m. | Thanks for all your responses. You can read about the correct diagnosis at “Think Like a Doctor: Swept Off Her Feet Solved.”
+
+Rules and Regulations: Post your diagnosis and any questions you may have in the Comments section. The correct answer will appear on Thursday on Well. The first person to answer will receive a copy of my book and that warm, wonderful feeling you get from solving a mystery. The winner will be contacted. Reader comments may also appear in a coming issue of The New York Times Magazine.

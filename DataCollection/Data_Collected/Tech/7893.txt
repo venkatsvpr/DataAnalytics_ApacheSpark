@@ -1,0 +1,51 @@
+
+
+      By JOSH KELLER, 
+    
+K.K. REBECCA LAI and 
+    
+NICOLE PERLROTH
+
+UPDATED OCTOBER 3, 2017
+
+All three billion Yahoo users in 2013 were affected by a cyber attack, the company said Tuesday, an increase from the one billion it had originally estimated. The increase comes after Equifax, a credit reporting agency, said that more than 145 million people were affected by a breach of its systems.Answer the questions below to learn which parts of your identity may have been stolen in some of the major hacking attacks in the last four years and what you can do about it. Not all attacks are included here, and many attacks go undetected, so think of your results as a minimum level of exposure.
+Related Article
+How many times your information has been exposed to hackersNumber of pieces of your informationexposed to hackers: 
+YahooBefore Aug. 2013
+YahooBefore Dec. 2015
+LinkedInBefore June 2012
+MySpaceBefore June 2013
+AdobeBefore Oct. 2013
+AOLBefore April 2014
+eBayBefore May 2014
+Living SocialBefore April 2014
+SlackBefore Feb. 2015
+SnapchatBefore Jan. 2014
+TwitchBefore March 2015
+TwitterBefore Feb. 2013
+Quest DiagnosticsBefore Nov. 2016
+AnthemBefore Jan. 2015
+CareFirstBefore June 2014
+Community Health SystemsBefore July 2014
+Premera Blue CrossBefore Jan. 2015
+T-mobileSept. 2013 - Sept. 2015
+Hilton HotelsNov. 2014 - Dec. 2014April 2015 - July 2015
+AlbertsonsJune 2014 - July 2014
+Dairy QueenAug. 2014 - Sept. 2014
+GoodwillFeb. 2013 - Aug. 2014
+Home DepotApril 2014 - Sept. 2014
+KmartSept. 2014 - Oct. 2014
+Michaels StoresMay 2013 - Jan. 2014
+Neiman MarcusJuly 2013 - Oct. 2013
+P.F. Chang’sFeb. 2014 - June 2014
+Sally Beauty SupplyMarch 2014 - April 2015
+StaplesJuly 2014 - Sept. 2014
+SupervaluJune 2014 - July 2014
+TargetNov. 2013 - Dec. 2013
+United Parcel ServiceJan. 2014 - Aug. 2014How many times your information has been exposed to hackers
+Review your account statements for any fraudulent purchases, as well as your credit report. Make sure you have different passwords for different accounts: in particular, don’t use the same password for your bank accounts, email and e-commerce accounts.If you were the victim of more than one breach, some security experts recommend freezing your credit. To do so, call Equifax, Experian and TransUnion and ask to have your account frozen. The credit agency will mail you a one-time PIN or password to unfreeze your account later. If you plan on applying for a new job, renting an apartment or buying insurance, you will have to thaw a freeze temporarily and pay a fee to refreeze the account.
+            
+The internet was built for openness and speed, not for security. As more and more services, infrastructure and personal information move online, they have all become targets for hackers, who constantly scan the internet for potential security holes and entry points. At government agencies, old, out-of-date systems and budget shortfalls have left information vulnerable. Security experts say there is no way to keep hackers out of systems with traditional defenses like firewalls and antivirus software. With breaches now the norm, organizations are finally moving toward more modern defenses, like monitoring software that can pick up unusual network activity and two-factor authentication, a system that requires employees and internet users to enter a second, one-time password when they log in from a new computer. But security experts say the only way information can be protected is to scramble it with encryption technology that makes it unreadable to hackers.
+            
+It’s pretty simple: You can’t. But you can take a few steps to make things harder for criminals. Turn on two-factor authentication, whenever possible. Most banking sites and ones like Google, Apple, Twitter and Facebook offer two-factor authentication. Change your passwords frequently and do not use the same password across websites. Vigilantly monitor your bank accounts and credit report. Do not enter sensitive information into websites that do not encrypt your connection. Look for a lock symbol next to the web address whenever entering sensitive information and do not enter it if you cannot see the lock symbol.
+            Note: None of your responses are collected or retained. Not all branches of a retail store or website users were affected in every data breach. For more details about specific locations and timing of security breaches, refer to the links above.Advertisement

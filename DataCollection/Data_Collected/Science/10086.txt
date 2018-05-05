@@ -1,0 +1,3896 @@
+
+
+      By DEREK WATKINS
+
+MARCH 24, 2015
+
+ 
+Related Article
+The winter ice covering the Arctic Ocean has reached its annual peak, but the extent of sea ice cover this winter is smaller than it has been at the end of any winter since 1978, when scientists began keeping consistent satellite records.The vast amount of sea ice covering the Arctic fluctuates on a seasonal basis, and the winter peak marks a turning point before a melting period during the warmer spring and summer months. Arctic sea ice typically expands to a maximum in March and shrinks to a minimum in September each year. The National Snow & Ice Data Center said on Thursday that this year’s maximum occurred on Feb. 25, about two weeks earlier than the average, barring any unlikely additional growth of ice late in the season.
+
+
+
+
+
+		.g-artboard {
+			margin:0 auto;
+		}
+	
+
+
+
+			#g-arctic-globe-1050{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-globe-1050 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-globe-1050 .g-aiPstyle0 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				color:#000000;
+			}
+			#g-arctic-globe-1050 .g-aiPstyle1 {
+				line-height:16px;
+				font-weight:500;
+				text-transform:uppercase;
+				text-align:center;
+				letter-spacing:0.05833333333333em;
+				filter: alpha(opacity=60);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+				opacity:0.6;
+				color:#000000;
+			}
+			#g-arctic-globe-1050 .g-aiPstyle2 {
+				font-size:12px;
+				line-height:15px;
+				font-weight:300;
+				font-style:italic;
+				text-transform:uppercase;
+				letter-spacing:0.04166666666667em;
+				filter: alpha(opacity=90);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=90)';
+				opacity:0.9;
+				color:#000000;
+			}
+			#g-arctic-globe-1050 .g-aiPstyle3 {
+				line-height:16px;
+				font-weight:500;
+				text-transform:uppercase;
+				text-align:right;
+				letter-spacing:0.05833333333333em;
+				filter: alpha(opacity=60);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+				opacity:0.6;
+				color:#ffffff;
+			}
+			#g-arctic-globe-1050 .g-aiPstyle4 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-globe-1050 .g-aiPstyle5 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:700;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-globe-1050 .g-aiPstyle6 {
+				line-height:16px;
+				font-weight:500;
+				font-style:italic;
+				text-transform:uppercase;
+				text-align:center;
+				letter-spacing:0.05833333333333em;
+				filter: alpha(opacity=60);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+				opacity:0.6;
+				color:#000000;
+			}
+			#g-arctic-globe-1050 .g-aiPstyle7 {
+				line-height:16px;
+				font-weight:500;
+				text-transform:uppercase;
+				letter-spacing:0.05833333333333em;
+				filter: alpha(opacity=60);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+				opacity:0.6;
+				color:#ffffff;
+			}
+			#g-arctic-globe-1050 .g-aiPstyle8 {
+				font-size:15px;
+				line-height:17px;
+				font-weight:300;
+				font-style:italic;
+				text-align:center;
+				filter: alpha(opacity=40);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=40)';
+				opacity:0.4;
+				color:#adbedb;
+			}
+		
+
+
+
+Average maximum extent of Arctic sea ice, 1979 to 2014
+
+
+Russia
+
+
+NORTH
+POLE
+
+
+Norway
+
+
+Extent of
+Arctic sea ice
+as of Feb. 25
+
+
+Alaska
+
+
+Greenland
+
+
+ICELAND
+
+
+Pacific
+Ocean
+
+
+Atlantic
+Ocean
+
+
+Canada
+
+
+UNITED STATES
+
+
+
+
+
+
+			#g-arctic-globe-300{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-globe-300 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-globe-300 .g-aiPstyle0 {
+				font-size:12px;
+				line-height:15px;
+				font-weight:500;
+				text-transform:uppercase;
+				text-align:center;
+				letter-spacing:0.05833333333333em;
+				filter: alpha(opacity=60);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+				opacity:0.6;
+				color:#000000;
+			}
+			#g-arctic-globe-300 .g-aiPstyle1 {
+				font-size:12px;
+				line-height:14px;
+				font-weight:300;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-globe-300 .g-aiPstyle2 {
+				font-size:12px;
+				line-height:14px;
+				font-weight:700;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-globe-300 .g-aiPstyle3 {
+				font-size:12px;
+				line-height:15px;
+				font-weight:300;
+				font-style:italic;
+				text-align:center;
+				filter: alpha(opacity=40);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=40)';
+				opacity:0.4;
+				color:#adbedb;
+			}
+			#g-arctic-globe-300 .g-aiPstyle4 {
+				font-size:12px;
+				line-height:15px;
+				font-weight:300;
+				color:#000000;
+			}
+		
+
+
+
+Russia
+
+
+Extent of
+Arctic sea ice
+as of Feb. 25
+
+
+Pacific
+Ocean
+
+
+Atlantic
+Ocean
+
+
+Canada
+
+
+Avg. maximum extent of Arctic sea ice, 1979 to 2014
+
+
+
+
+
+
+			#g-arctic-globe-720{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-globe-720 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-globe-720 .g-aiPstyle0 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				color:#000000;
+			}
+			#g-arctic-globe-720 .g-aiPstyle1 {
+				line-height:16px;
+				font-weight:500;
+				text-transform:uppercase;
+				text-align:center;
+				letter-spacing:0.05833333333333em;
+				filter: alpha(opacity=60);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+				opacity:0.6;
+				color:#000000;
+			}
+			#g-arctic-globe-720 .g-aiPstyle2 {
+				font-size:12px;
+				line-height:15px;
+				font-weight:300;
+				font-style:italic;
+				text-transform:uppercase;
+				letter-spacing:0.04166666666667em;
+				filter: alpha(opacity=90);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=90)';
+				opacity:0.9;
+				color:#000000;
+			}
+			#g-arctic-globe-720 .g-aiPstyle3 {
+				line-height:16px;
+				font-weight:500;
+				text-transform:uppercase;
+				text-align:right;
+				letter-spacing:0.05833333333333em;
+				filter: alpha(opacity=60);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+				opacity:0.6;
+				color:#ffffff;
+			}
+			#g-arctic-globe-720 .g-aiPstyle4 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-globe-720 .g-aiPstyle5 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:700;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-globe-720 .g-aiPstyle6 {
+				line-height:16px;
+				font-weight:500;
+				font-style:italic;
+				text-transform:uppercase;
+				text-align:center;
+				letter-spacing:0.05833333333333em;
+				filter: alpha(opacity=60);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+				opacity:0.6;
+				color:#000000;
+			}
+			#g-arctic-globe-720 .g-aiPstyle7 {
+				line-height:16px;
+				font-weight:500;
+				text-transform:uppercase;
+				letter-spacing:0.05833333333333em;
+				filter: alpha(opacity=60);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+				opacity:0.6;
+				color:#ffffff;
+			}
+			#g-arctic-globe-720 .g-aiPstyle8 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				font-style:italic;
+				text-align:center;
+				filter: alpha(opacity=40);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=40)';
+				opacity:0.4;
+				color:#adbedb;
+			}
+		
+
+
+
+Avg. maximum 
+extent of sea ice, 
+1979 to 2014
+
+
+Russia
+
+
+NORTH
+POLE
+
+
+Norway
+
+
+Extent of
+Arctic sea ice
+as of Feb. 25
+
+
+Alaska
+
+
+Greenland
+
+
+ICELAND
+
+
+Pacific
+Ocean
+
+
+Atlantic
+Ocean
+
+
+Canada
+
+
+UNITED STATES
+
+
+
+
+
+
+			#g-arctic-globe-450{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-globe-450 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-globe-450 .g-aiPstyle0 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:500;
+				text-transform:uppercase;
+				text-align:center;
+				letter-spacing:0.05833333333333em;
+				filter: alpha(opacity=60);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+				opacity:0.6;
+				color:#000000;
+			}
+			#g-arctic-globe-450 .g-aiPstyle1 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-globe-450 .g-aiPstyle2 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:700;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-globe-450 .g-aiPstyle3 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				font-style:italic;
+				text-align:center;
+				filter: alpha(opacity=40);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=40)';
+				opacity:0.4;
+				color:#adbedb;
+			}
+			#g-arctic-globe-450 .g-aiPstyle4 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				color:#000000;
+			}
+		
+
+
+
+Russia
+
+
+Extent of
+Arctic sea ice
+as of Feb. 25
+
+
+Pacific
+Ocean
+
+
+Atlantic
+Ocean
+
+
+Canada
+
+
+Avg. maximum extent of Arctic sea ice, 1979 to 2014
+
+
+
+
+
+The center said that recent weather patterns partly explain why the maximum this year is smaller than in previous winters. The North Pacific was warm this year because the atmospheric jet stream of cold air looped farther north in that region than is typical. The jet stream also plunged farther south than usual near the United States, bringing cooling temperatures and triggering heavy snows in much of the country.Summer minimums in the Arctic’s ice cover can have a greater effect on the global climate than winter maximums, according to Walt Meier, a NASA scientist and an expert on sea ice.  During the relatively sunny summers, the dark ocean surface of ice-free parts of the Arctic absorbs much more solar energy than highly reflective sea ice. This can create a warming feedback loop when the ocean absorbs sunlight and heats the air above it.Scientists believe that the sharp long-term decline in Arctic sea ice is primarily driven by planetary warming that is occurring because of human emissions of greenhouse gases. The trend shows up most strongly in the summer readings.
+
+
+
+
+
+		.g-artboard {
+			margin:0 auto;
+		}
+	
+
+
+
+			#g-arctic-chart-945{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-chart-945 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-chart-945 .g-aiPstyle0 {
+				font-size:14px;
+				line-height:16px;
+				font-weight:300;
+				text-align:right;
+				filter: alpha(opacity=80);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';
+				opacity:0.8;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle1 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle2 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:700;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle3 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle4 {
+				font-size:12px;
+				line-height:14px;
+				font-weight:500;
+				filter: alpha(opacity=30);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=30)';
+				opacity:0.3;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle5 {
+				font-size:12px;
+				line-height:14px;
+				font-weight:700;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle6 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle7 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:700;
+				color:#46afaf;
+			}
+			#g-arctic-chart-945 .g-aiPstyle8 {
+				font-size:12px;
+				line-height:14px;
+				font-weight:500;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle9 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:center;
+				letter-spacing:0.08333333333333em;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle10 {
+				font-size:11px;
+				line-height:13px;
+				font-weight:300;
+				text-align:center;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+		
+
+
+
+18 million
+sq. km
+
+
+Each line represents one yearly cycle of sea ice fluctuations
+
+
+Yearly fluctuations in area of Arctic covered by ice
+Millions of sq. km
+
+
+Feb. 25
+2015 maximum
+
+
+1979
+
+
+16
+
+
+The dotted line represents the average ice extent from 1981 to 2010
+
+
+14
+
+
+2015
+
+
+Arctic ice cover usually reaches an annual maximum around March
+
+
+Ice cover usually shrinks to its minimum in September
+
+
+12
+
+
+Size of
+Canada
+
+
+Ice extent for 2010 to 2014 is shown with green lines
+
+
+1980
+
+
+8
+
+
+6
+
+
+2012
+Arctic ice extent reached the lowest point on record
+
+
+4
+
+
+Size of
+Alaska
+
+
+SUMMER
+
+
+WINTER
+
+
+Size of
+California
+
+
+JAN.
+
+
+FEB.
+
+
+MARCH
+
+
+APRIL
+
+
+MAY
+
+
+JUNE
+
+
+JULY
+
+
+AUG.
+
+
+SEPT.
+
+
+OCT.
+
+
+NOV.
+
+
+DEC.
+
+
+
+
+
+
+			#g-arctic-chart-720{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-chart-720 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-chart-720 .g-aiPstyle0 {
+				line-height:16px;
+				font-weight:300;
+				text-align:right;
+				filter: alpha(opacity=80);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';
+				opacity:0.8;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle1 {
+				line-height:16px;
+				font-weight:700;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle2 {
+				line-height:16px;
+				font-weight:300;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle3 {
+				line-height:16px;
+				font-weight:300;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle4 {
+				line-height:16px;
+				font-weight:500;
+				filter: alpha(opacity=30);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=30)';
+				opacity:0.3;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle5 {
+				line-height:16px;
+				font-weight:300;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle6 {
+				line-height:16px;
+				font-weight:700;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle7 {
+				line-height:16px;
+				font-weight:700;
+				color:#46afaf;
+			}
+			#g-arctic-chart-720 .g-aiPstyle8 {
+				line-height:16px;
+				font-weight:500;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle9 {
+				line-height:16px;
+				font-weight:300;
+				text-align:center;
+				letter-spacing:0.08333333333333em;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle10 {
+				line-height:16px;
+				font-weight:300;
+				text-align:center;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+		
+
+
+
+18 million
+sq. km
+
+
+Feb. 25
+2015 maximum
+
+
+Yearly fluctuations in area of Arctic covered by ice
+Millions of sq. km
+
+
+Each line represents one yearly cycle of sea ice fluctuations. The dotted line represents the average ice extent from 1981 to 2010
+
+
+1979
+
+
+16
+
+
+14
+
+
+Ice cover usually shrinks to its minimum in September
+
+
+2015
+
+
+Arctic ice cover usually reaches an annual maximum around March
+
+
+12
+
+
+Size of
+Canada
+
+
+Ice extent for 2010 to 2014 is shown with green lines
+
+
+1980
+
+
+8
+
+
+6
+
+
+2012
+Arctic ice extent reached the lowest point on record
+
+
+4
+
+
+Size of
+Alaska
+
+
+SUMMER
+
+
+WINTER
+
+
+Size of
+California
+
+
+JAN.
+
+
+FEB.
+
+
+MARCH
+
+
+APRIL
+
+
+MAY
+
+
+JUNE
+
+
+JULY
+
+
+AUG.
+
+
+SEPT.
+
+
+OCT.
+
+
+NOV.
+
+
+DEC.
+
+
+
+
+
+
+			#g-arctic-chart-300{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-chart-300 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-chart-300 .g-aiPstyle0 {
+				font-size:14px;
+				line-height:16px;
+				font-weight:700;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle1 {
+				font-size:14px;
+				line-height:16px;
+				font-weight:300;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle2 {
+				line-height:15px;
+				font-weight:300;
+				text-align:right;
+				filter: alpha(opacity=80);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';
+				opacity:0.8;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle3 {
+				line-height:15px;
+				font-weight:700;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle4 {
+				line-height:15px;
+				font-weight:300;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle5 {
+				font-size:14px;
+				line-height:15px;
+				font-weight:700;
+				color:#46afaf;
+			}
+			#g-arctic-chart-300 .g-aiPstyle6 {
+				font-size:12px;
+				line-height:15px;
+				font-weight:500;
+				filter: alpha(opacity=30);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=30)';
+				opacity:0.3;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle7 {
+				font-size:12px;
+				line-height:15px;
+				font-weight:300;
+				text-align:center;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+		
+
+
+
+Area of Arctic sea ice
+Millions of sq. km,
+1981 to 2010
+
+
+18
+million
+sq. km
+
+
+12
+
+
+Feb. 25
+2015 maximum
+
+
+Ice extent for 
+2010 to 2014
+is shown with 
+green lines
+
+
+6
+
+
+2012
+
+
+0
+
+
+FEB.
+
+
+APRIL
+
+
+JUNE
+
+
+AUG.
+
+
+OCT.
+
+
+DEC.
+
+
+
+
+
+Dr. Meier said that during the winter much of the ice near the edges of the ice sheet covering the Arctic is thin and seasonal, whereas some of the older and thicker ice melts during the summer. The differences between these seasonal processes mean winter ice cover does not help predict how much ice there will be by the end of summer. “When you lose summer ice you aren't really just losing it for that year, you're also losing some ice from many years ago,” he said. “That makes it harder for things to go back towards normal.”
+
+The vast amount of sea ice covering the Arctic fluctuates on a seasonal basis, and the winter peak marks a turning point before a melting period during the warmer spring and summer months. Arctic sea ice typically expands to a maximum in March and shrinks to a minimum in September each year. The National Snow & Ice Data Center said on Thursday that this year’s maximum occurred on Feb. 25, about two weeks earlier than the average, barring any unlikely additional growth of ice late in the season.
+
+
+
+
+
+		.g-artboard {
+			margin:0 auto;
+		}
+	
+
+
+
+			#g-arctic-globe-1050{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-globe-1050 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-globe-1050 .g-aiPstyle0 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				color:#000000;
+			}
+			#g-arctic-globe-1050 .g-aiPstyle1 {
+				line-height:16px;
+				font-weight:500;
+				text-transform:uppercase;
+				text-align:center;
+				letter-spacing:0.05833333333333em;
+				filter: alpha(opacity=60);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+				opacity:0.6;
+				color:#000000;
+			}
+			#g-arctic-globe-1050 .g-aiPstyle2 {
+				font-size:12px;
+				line-height:15px;
+				font-weight:300;
+				font-style:italic;
+				text-transform:uppercase;
+				letter-spacing:0.04166666666667em;
+				filter: alpha(opacity=90);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=90)';
+				opacity:0.9;
+				color:#000000;
+			}
+			#g-arctic-globe-1050 .g-aiPstyle3 {
+				line-height:16px;
+				font-weight:500;
+				text-transform:uppercase;
+				text-align:right;
+				letter-spacing:0.05833333333333em;
+				filter: alpha(opacity=60);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+				opacity:0.6;
+				color:#ffffff;
+			}
+			#g-arctic-globe-1050 .g-aiPstyle4 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-globe-1050 .g-aiPstyle5 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:700;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-globe-1050 .g-aiPstyle6 {
+				line-height:16px;
+				font-weight:500;
+				font-style:italic;
+				text-transform:uppercase;
+				text-align:center;
+				letter-spacing:0.05833333333333em;
+				filter: alpha(opacity=60);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+				opacity:0.6;
+				color:#000000;
+			}
+			#g-arctic-globe-1050 .g-aiPstyle7 {
+				line-height:16px;
+				font-weight:500;
+				text-transform:uppercase;
+				letter-spacing:0.05833333333333em;
+				filter: alpha(opacity=60);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+				opacity:0.6;
+				color:#ffffff;
+			}
+			#g-arctic-globe-1050 .g-aiPstyle8 {
+				font-size:15px;
+				line-height:17px;
+				font-weight:300;
+				font-style:italic;
+				text-align:center;
+				filter: alpha(opacity=40);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=40)';
+				opacity:0.4;
+				color:#adbedb;
+			}
+		
+
+
+
+Average maximum extent of Arctic sea ice, 1979 to 2014
+
+
+Russia
+
+
+NORTH
+POLE
+
+
+Norway
+
+
+Extent of
+Arctic sea ice
+as of Feb. 25
+
+
+Alaska
+
+
+Greenland
+
+
+ICELAND
+
+
+Pacific
+Ocean
+
+
+Atlantic
+Ocean
+
+
+Canada
+
+
+UNITED STATES
+
+
+
+
+
+
+			#g-arctic-globe-300{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-globe-300 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-globe-300 .g-aiPstyle0 {
+				font-size:12px;
+				line-height:15px;
+				font-weight:500;
+				text-transform:uppercase;
+				text-align:center;
+				letter-spacing:0.05833333333333em;
+				filter: alpha(opacity=60);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+				opacity:0.6;
+				color:#000000;
+			}
+			#g-arctic-globe-300 .g-aiPstyle1 {
+				font-size:12px;
+				line-height:14px;
+				font-weight:300;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-globe-300 .g-aiPstyle2 {
+				font-size:12px;
+				line-height:14px;
+				font-weight:700;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-globe-300 .g-aiPstyle3 {
+				font-size:12px;
+				line-height:15px;
+				font-weight:300;
+				font-style:italic;
+				text-align:center;
+				filter: alpha(opacity=40);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=40)';
+				opacity:0.4;
+				color:#adbedb;
+			}
+			#g-arctic-globe-300 .g-aiPstyle4 {
+				font-size:12px;
+				line-height:15px;
+				font-weight:300;
+				color:#000000;
+			}
+		
+
+
+
+Russia
+
+
+Extent of
+Arctic sea ice
+as of Feb. 25
+
+
+Pacific
+Ocean
+
+
+Atlantic
+Ocean
+
+
+Canada
+
+
+Avg. maximum extent of Arctic sea ice, 1979 to 2014
+
+
+
+
+
+
+			#g-arctic-globe-720{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-globe-720 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-globe-720 .g-aiPstyle0 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				color:#000000;
+			}
+			#g-arctic-globe-720 .g-aiPstyle1 {
+				line-height:16px;
+				font-weight:500;
+				text-transform:uppercase;
+				text-align:center;
+				letter-spacing:0.05833333333333em;
+				filter: alpha(opacity=60);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+				opacity:0.6;
+				color:#000000;
+			}
+			#g-arctic-globe-720 .g-aiPstyle2 {
+				font-size:12px;
+				line-height:15px;
+				font-weight:300;
+				font-style:italic;
+				text-transform:uppercase;
+				letter-spacing:0.04166666666667em;
+				filter: alpha(opacity=90);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=90)';
+				opacity:0.9;
+				color:#000000;
+			}
+			#g-arctic-globe-720 .g-aiPstyle3 {
+				line-height:16px;
+				font-weight:500;
+				text-transform:uppercase;
+				text-align:right;
+				letter-spacing:0.05833333333333em;
+				filter: alpha(opacity=60);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+				opacity:0.6;
+				color:#ffffff;
+			}
+			#g-arctic-globe-720 .g-aiPstyle4 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-globe-720 .g-aiPstyle5 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:700;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-globe-720 .g-aiPstyle6 {
+				line-height:16px;
+				font-weight:500;
+				font-style:italic;
+				text-transform:uppercase;
+				text-align:center;
+				letter-spacing:0.05833333333333em;
+				filter: alpha(opacity=60);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+				opacity:0.6;
+				color:#000000;
+			}
+			#g-arctic-globe-720 .g-aiPstyle7 {
+				line-height:16px;
+				font-weight:500;
+				text-transform:uppercase;
+				letter-spacing:0.05833333333333em;
+				filter: alpha(opacity=60);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+				opacity:0.6;
+				color:#ffffff;
+			}
+			#g-arctic-globe-720 .g-aiPstyle8 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				font-style:italic;
+				text-align:center;
+				filter: alpha(opacity=40);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=40)';
+				opacity:0.4;
+				color:#adbedb;
+			}
+		
+
+
+
+Avg. maximum 
+extent of sea ice, 
+1979 to 2014
+
+
+Russia
+
+
+NORTH
+POLE
+
+
+Norway
+
+
+Extent of
+Arctic sea ice
+as of Feb. 25
+
+
+Alaska
+
+
+Greenland
+
+
+ICELAND
+
+
+Pacific
+Ocean
+
+
+Atlantic
+Ocean
+
+
+Canada
+
+
+UNITED STATES
+
+
+
+
+
+
+			#g-arctic-globe-450{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-globe-450 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-globe-450 .g-aiPstyle0 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:500;
+				text-transform:uppercase;
+				text-align:center;
+				letter-spacing:0.05833333333333em;
+				filter: alpha(opacity=60);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+				opacity:0.6;
+				color:#000000;
+			}
+			#g-arctic-globe-450 .g-aiPstyle1 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-globe-450 .g-aiPstyle2 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:700;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-globe-450 .g-aiPstyle3 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				font-style:italic;
+				text-align:center;
+				filter: alpha(opacity=40);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=40)';
+				opacity:0.4;
+				color:#adbedb;
+			}
+			#g-arctic-globe-450 .g-aiPstyle4 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				color:#000000;
+			}
+		
+
+
+
+Russia
+
+
+Extent of
+Arctic sea ice
+as of Feb. 25
+
+
+Pacific
+Ocean
+
+
+Atlantic
+Ocean
+
+
+Canada
+
+
+Avg. maximum extent of Arctic sea ice, 1979 to 2014
+
+
+
+
+
+The center said that recent weather patterns partly explain why the maximum this year is smaller than in previous winters. The North Pacific was warm this year because the atmospheric jet stream of cold air looped farther north in that region than is typical. The jet stream also plunged farther south than usual near the United States, bringing cooling temperatures and triggering heavy snows in much of the country.Summer minimums in the Arctic’s ice cover can have a greater effect on the global climate than winter maximums, according to Walt Meier, a NASA scientist and an expert on sea ice.  During the relatively sunny summers, the dark ocean surface of ice-free parts of the Arctic absorbs much more solar energy than highly reflective sea ice. This can create a warming feedback loop when the ocean absorbs sunlight and heats the air above it.Scientists believe that the sharp long-term decline in Arctic sea ice is primarily driven by planetary warming that is occurring because of human emissions of greenhouse gases. The trend shows up most strongly in the summer readings.
+
+
+
+
+
+		.g-artboard {
+			margin:0 auto;
+		}
+	
+
+
+
+			#g-arctic-chart-945{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-chart-945 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-chart-945 .g-aiPstyle0 {
+				font-size:14px;
+				line-height:16px;
+				font-weight:300;
+				text-align:right;
+				filter: alpha(opacity=80);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';
+				opacity:0.8;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle1 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle2 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:700;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle3 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle4 {
+				font-size:12px;
+				line-height:14px;
+				font-weight:500;
+				filter: alpha(opacity=30);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=30)';
+				opacity:0.3;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle5 {
+				font-size:12px;
+				line-height:14px;
+				font-weight:700;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle6 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle7 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:700;
+				color:#46afaf;
+			}
+			#g-arctic-chart-945 .g-aiPstyle8 {
+				font-size:12px;
+				line-height:14px;
+				font-weight:500;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle9 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:center;
+				letter-spacing:0.08333333333333em;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle10 {
+				font-size:11px;
+				line-height:13px;
+				font-weight:300;
+				text-align:center;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+		
+
+
+
+18 million
+sq. km
+
+
+Each line represents one yearly cycle of sea ice fluctuations
+
+
+Yearly fluctuations in area of Arctic covered by ice
+Millions of sq. km
+
+
+Feb. 25
+2015 maximum
+
+
+1979
+
+
+16
+
+
+The dotted line represents the average ice extent from 1981 to 2010
+
+
+14
+
+
+2015
+
+
+Arctic ice cover usually reaches an annual maximum around March
+
+
+Ice cover usually shrinks to its minimum in September
+
+
+12
+
+
+Size of
+Canada
+
+
+Ice extent for 2010 to 2014 is shown with green lines
+
+
+1980
+
+
+8
+
+
+6
+
+
+2012
+Arctic ice extent reached the lowest point on record
+
+
+4
+
+
+Size of
+Alaska
+
+
+SUMMER
+
+
+WINTER
+
+
+Size of
+California
+
+
+JAN.
+
+
+FEB.
+
+
+MARCH
+
+
+APRIL
+
+
+MAY
+
+
+JUNE
+
+
+JULY
+
+
+AUG.
+
+
+SEPT.
+
+
+OCT.
+
+
+NOV.
+
+
+DEC.
+
+
+
+
+
+
+			#g-arctic-chart-720{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-chart-720 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-chart-720 .g-aiPstyle0 {
+				line-height:16px;
+				font-weight:300;
+				text-align:right;
+				filter: alpha(opacity=80);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';
+				opacity:0.8;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle1 {
+				line-height:16px;
+				font-weight:700;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle2 {
+				line-height:16px;
+				font-weight:300;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle3 {
+				line-height:16px;
+				font-weight:300;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle4 {
+				line-height:16px;
+				font-weight:500;
+				filter: alpha(opacity=30);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=30)';
+				opacity:0.3;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle5 {
+				line-height:16px;
+				font-weight:300;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle6 {
+				line-height:16px;
+				font-weight:700;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle7 {
+				line-height:16px;
+				font-weight:700;
+				color:#46afaf;
+			}
+			#g-arctic-chart-720 .g-aiPstyle8 {
+				line-height:16px;
+				font-weight:500;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle9 {
+				line-height:16px;
+				font-weight:300;
+				text-align:center;
+				letter-spacing:0.08333333333333em;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle10 {
+				line-height:16px;
+				font-weight:300;
+				text-align:center;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+		
+
+
+
+18 million
+sq. km
+
+
+Feb. 25
+2015 maximum
+
+
+Yearly fluctuations in area of Arctic covered by ice
+Millions of sq. km
+
+
+Each line represents one yearly cycle of sea ice fluctuations. The dotted line represents the average ice extent from 1981 to 2010
+
+
+1979
+
+
+16
+
+
+14
+
+
+Ice cover usually shrinks to its minimum in September
+
+
+2015
+
+
+Arctic ice cover usually reaches an annual maximum around March
+
+
+12
+
+
+Size of
+Canada
+
+
+Ice extent for 2010 to 2014 is shown with green lines
+
+
+1980
+
+
+8
+
+
+6
+
+
+2012
+Arctic ice extent reached the lowest point on record
+
+
+4
+
+
+Size of
+Alaska
+
+
+SUMMER
+
+
+WINTER
+
+
+Size of
+California
+
+
+JAN.
+
+
+FEB.
+
+
+MARCH
+
+
+APRIL
+
+
+MAY
+
+
+JUNE
+
+
+JULY
+
+
+AUG.
+
+
+SEPT.
+
+
+OCT.
+
+
+NOV.
+
+
+DEC.
+
+
+
+
+
+
+			#g-arctic-chart-300{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-chart-300 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-chart-300 .g-aiPstyle0 {
+				font-size:14px;
+				line-height:16px;
+				font-weight:700;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle1 {
+				font-size:14px;
+				line-height:16px;
+				font-weight:300;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle2 {
+				line-height:15px;
+				font-weight:300;
+				text-align:right;
+				filter: alpha(opacity=80);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';
+				opacity:0.8;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle3 {
+				line-height:15px;
+				font-weight:700;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle4 {
+				line-height:15px;
+				font-weight:300;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle5 {
+				font-size:14px;
+				line-height:15px;
+				font-weight:700;
+				color:#46afaf;
+			}
+			#g-arctic-chart-300 .g-aiPstyle6 {
+				font-size:12px;
+				line-height:15px;
+				font-weight:500;
+				filter: alpha(opacity=30);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=30)';
+				opacity:0.3;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle7 {
+				font-size:12px;
+				line-height:15px;
+				font-weight:300;
+				text-align:center;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+		
+
+
+
+Area of Arctic sea ice
+Millions of sq. km,
+1981 to 2010
+
+
+18
+million
+sq. km
+
+
+12
+
+
+Feb. 25
+2015 maximum
+
+
+Ice extent for 
+2010 to 2014
+is shown with 
+green lines
+
+
+6
+
+
+2012
+
+
+0
+
+
+FEB.
+
+
+APRIL
+
+
+JUNE
+
+
+AUG.
+
+
+OCT.
+
+
+DEC.
+
+
+
+
+
+Dr. Meier said that during the winter much of the ice near the edges of the ice sheet covering the Arctic is thin and seasonal, whereas some of the older and thicker ice melts during the summer. The differences between these seasonal processes mean winter ice cover does not help predict how much ice there will be by the end of summer. “When you lose summer ice you aren't really just losing it for that year, you're also losing some ice from many years ago,” he said. “That makes it harder for things to go back towards normal.”
+
+Average maximum extent of Arctic sea ice, 1979 to 2014RussiaNORTHPOLENorwayExtent ofArctic sea iceas of Feb. 25AlaskaGreenlandICELANDPacificOceanAtlanticOceanCanadaUNITED STATESRussiaExtent ofArctic sea iceas of Feb. 25PacificOceanAtlanticOceanCanadaAvg. maximum extent of Arctic sea ice, 1979 to 2014Avg. maximum extent of sea ice, 1979 to 2014RussiaNORTHPOLENorwayExtent ofArctic sea iceas of Feb. 25AlaskaGreenlandICELANDPacificOceanAtlanticOceanCanadaUNITED STATESRussiaExtent ofArctic sea iceas of Feb. 25PacificOceanAtlanticOceanCanadaAvg. maximum extent of Arctic sea ice, 1979 to 2014The center said that recent weather patterns partly explain why the maximum this year is smaller than in previous winters. The North Pacific was warm this year because the atmospheric jet stream of cold air looped farther north in that region than is typical. The jet stream also plunged farther south than usual near the United States, bringing cooling temperatures and triggering heavy snows in much of the country.Summer minimums in the Arctic’s ice cover can have a greater effect on the global climate than winter maximums, according to Walt Meier, a NASA scientist and an expert on sea ice.  During the relatively sunny summers, the dark ocean surface of ice-free parts of the Arctic absorbs much more solar energy than highly reflective sea ice. This can create a warming feedback loop when the ocean absorbs sunlight and heats the air above it.Scientists believe that the sharp long-term decline in Arctic sea ice is primarily driven by planetary warming that is occurring because of human emissions of greenhouse gases. The trend shows up most strongly in the summer readings.
+
+
+
+
+
+		.g-artboard {
+			margin:0 auto;
+		}
+	
+
+
+
+			#g-arctic-chart-945{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-chart-945 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-chart-945 .g-aiPstyle0 {
+				font-size:14px;
+				line-height:16px;
+				font-weight:300;
+				text-align:right;
+				filter: alpha(opacity=80);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';
+				opacity:0.8;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle1 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle2 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:700;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle3 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle4 {
+				font-size:12px;
+				line-height:14px;
+				font-weight:500;
+				filter: alpha(opacity=30);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=30)';
+				opacity:0.3;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle5 {
+				font-size:12px;
+				line-height:14px;
+				font-weight:700;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle6 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle7 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:700;
+				color:#46afaf;
+			}
+			#g-arctic-chart-945 .g-aiPstyle8 {
+				font-size:12px;
+				line-height:14px;
+				font-weight:500;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle9 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:center;
+				letter-spacing:0.08333333333333em;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle10 {
+				font-size:11px;
+				line-height:13px;
+				font-weight:300;
+				text-align:center;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+		
+
+
+
+18 million
+sq. km
+
+
+Each line represents one yearly cycle of sea ice fluctuations
+
+
+Yearly fluctuations in area of Arctic covered by ice
+Millions of sq. km
+
+
+Feb. 25
+2015 maximum
+
+
+1979
+
+
+16
+
+
+The dotted line represents the average ice extent from 1981 to 2010
+
+
+14
+
+
+2015
+
+
+Arctic ice cover usually reaches an annual maximum around March
+
+
+Ice cover usually shrinks to its minimum in September
+
+
+12
+
+
+Size of
+Canada
+
+
+Ice extent for 2010 to 2014 is shown with green lines
+
+
+1980
+
+
+8
+
+
+6
+
+
+2012
+Arctic ice extent reached the lowest point on record
+
+
+4
+
+
+Size of
+Alaska
+
+
+SUMMER
+
+
+WINTER
+
+
+Size of
+California
+
+
+JAN.
+
+
+FEB.
+
+
+MARCH
+
+
+APRIL
+
+
+MAY
+
+
+JUNE
+
+
+JULY
+
+
+AUG.
+
+
+SEPT.
+
+
+OCT.
+
+
+NOV.
+
+
+DEC.
+
+
+
+
+
+
+			#g-arctic-chart-720{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-chart-720 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-chart-720 .g-aiPstyle0 {
+				line-height:16px;
+				font-weight:300;
+				text-align:right;
+				filter: alpha(opacity=80);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';
+				opacity:0.8;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle1 {
+				line-height:16px;
+				font-weight:700;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle2 {
+				line-height:16px;
+				font-weight:300;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle3 {
+				line-height:16px;
+				font-weight:300;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle4 {
+				line-height:16px;
+				font-weight:500;
+				filter: alpha(opacity=30);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=30)';
+				opacity:0.3;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle5 {
+				line-height:16px;
+				font-weight:300;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle6 {
+				line-height:16px;
+				font-weight:700;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle7 {
+				line-height:16px;
+				font-weight:700;
+				color:#46afaf;
+			}
+			#g-arctic-chart-720 .g-aiPstyle8 {
+				line-height:16px;
+				font-weight:500;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle9 {
+				line-height:16px;
+				font-weight:300;
+				text-align:center;
+				letter-spacing:0.08333333333333em;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle10 {
+				line-height:16px;
+				font-weight:300;
+				text-align:center;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+		
+
+
+
+18 million
+sq. km
+
+
+Feb. 25
+2015 maximum
+
+
+Yearly fluctuations in area of Arctic covered by ice
+Millions of sq. km
+
+
+Each line represents one yearly cycle of sea ice fluctuations. The dotted line represents the average ice extent from 1981 to 2010
+
+
+1979
+
+
+16
+
+
+14
+
+
+Ice cover usually shrinks to its minimum in September
+
+
+2015
+
+
+Arctic ice cover usually reaches an annual maximum around March
+
+
+12
+
+
+Size of
+Canada
+
+
+Ice extent for 2010 to 2014 is shown with green lines
+
+
+1980
+
+
+8
+
+
+6
+
+
+2012
+Arctic ice extent reached the lowest point on record
+
+
+4
+
+
+Size of
+Alaska
+
+
+SUMMER
+
+
+WINTER
+
+
+Size of
+California
+
+
+JAN.
+
+
+FEB.
+
+
+MARCH
+
+
+APRIL
+
+
+MAY
+
+
+JUNE
+
+
+JULY
+
+
+AUG.
+
+
+SEPT.
+
+
+OCT.
+
+
+NOV.
+
+
+DEC.
+
+
+
+
+
+
+			#g-arctic-chart-300{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-chart-300 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-chart-300 .g-aiPstyle0 {
+				font-size:14px;
+				line-height:16px;
+				font-weight:700;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle1 {
+				font-size:14px;
+				line-height:16px;
+				font-weight:300;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle2 {
+				line-height:15px;
+				font-weight:300;
+				text-align:right;
+				filter: alpha(opacity=80);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';
+				opacity:0.8;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle3 {
+				line-height:15px;
+				font-weight:700;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle4 {
+				line-height:15px;
+				font-weight:300;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle5 {
+				font-size:14px;
+				line-height:15px;
+				font-weight:700;
+				color:#46afaf;
+			}
+			#g-arctic-chart-300 .g-aiPstyle6 {
+				font-size:12px;
+				line-height:15px;
+				font-weight:500;
+				filter: alpha(opacity=30);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=30)';
+				opacity:0.3;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle7 {
+				font-size:12px;
+				line-height:15px;
+				font-weight:300;
+				text-align:center;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+		
+
+
+
+Area of Arctic sea ice
+Millions of sq. km,
+1981 to 2010
+
+
+18
+million
+sq. km
+
+
+12
+
+
+Feb. 25
+2015 maximum
+
+
+Ice extent for 
+2010 to 2014
+is shown with 
+green lines
+
+
+6
+
+
+2012
+
+
+0
+
+
+FEB.
+
+
+APRIL
+
+
+JUNE
+
+
+AUG.
+
+
+OCT.
+
+
+DEC.
+
+
+
+
+
+Dr. Meier said that during the winter much of the ice near the edges of the ice sheet covering the Arctic is thin and seasonal, whereas some of the older and thicker ice melts during the summer. The differences between these seasonal processes mean winter ice cover does not help predict how much ice there will be by the end of summer. “When you lose summer ice you aren't really just losing it for that year, you're also losing some ice from many years ago,” he said. “That makes it harder for things to go back towards normal.”
+
+Summer minimums in the Arctic’s ice cover can have a greater effect on the global climate than winter maximums, according to Walt Meier, a NASA scientist and an expert on sea ice.  During the relatively sunny summers, the dark ocean surface of ice-free parts of the Arctic absorbs much more solar energy than highly reflective sea ice. This can create a warming feedback loop when the ocean absorbs sunlight and heats the air above it.Scientists believe that the sharp long-term decline in Arctic sea ice is primarily driven by planetary warming that is occurring because of human emissions of greenhouse gases. The trend shows up most strongly in the summer readings.
+
+
+
+
+
+		.g-artboard {
+			margin:0 auto;
+		}
+	
+
+
+
+			#g-arctic-chart-945{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-chart-945 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-chart-945 .g-aiPstyle0 {
+				font-size:14px;
+				line-height:16px;
+				font-weight:300;
+				text-align:right;
+				filter: alpha(opacity=80);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';
+				opacity:0.8;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle1 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle2 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:700;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle3 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle4 {
+				font-size:12px;
+				line-height:14px;
+				font-weight:500;
+				filter: alpha(opacity=30);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=30)';
+				opacity:0.3;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle5 {
+				font-size:12px;
+				line-height:14px;
+				font-weight:700;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle6 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle7 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:700;
+				color:#46afaf;
+			}
+			#g-arctic-chart-945 .g-aiPstyle8 {
+				font-size:12px;
+				line-height:14px;
+				font-weight:500;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle9 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:center;
+				letter-spacing:0.08333333333333em;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle10 {
+				font-size:11px;
+				line-height:13px;
+				font-weight:300;
+				text-align:center;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+		
+
+
+
+18 million
+sq. km
+
+
+Each line represents one yearly cycle of sea ice fluctuations
+
+
+Yearly fluctuations in area of Arctic covered by ice
+Millions of sq. km
+
+
+Feb. 25
+2015 maximum
+
+
+1979
+
+
+16
+
+
+The dotted line represents the average ice extent from 1981 to 2010
+
+
+14
+
+
+2015
+
+
+Arctic ice cover usually reaches an annual maximum around March
+
+
+Ice cover usually shrinks to its minimum in September
+
+
+12
+
+
+Size of
+Canada
+
+
+Ice extent for 2010 to 2014 is shown with green lines
+
+
+1980
+
+
+8
+
+
+6
+
+
+2012
+Arctic ice extent reached the lowest point on record
+
+
+4
+
+
+Size of
+Alaska
+
+
+SUMMER
+
+
+WINTER
+
+
+Size of
+California
+
+
+JAN.
+
+
+FEB.
+
+
+MARCH
+
+
+APRIL
+
+
+MAY
+
+
+JUNE
+
+
+JULY
+
+
+AUG.
+
+
+SEPT.
+
+
+OCT.
+
+
+NOV.
+
+
+DEC.
+
+
+
+
+
+
+			#g-arctic-chart-720{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-chart-720 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-chart-720 .g-aiPstyle0 {
+				line-height:16px;
+				font-weight:300;
+				text-align:right;
+				filter: alpha(opacity=80);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';
+				opacity:0.8;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle1 {
+				line-height:16px;
+				font-weight:700;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle2 {
+				line-height:16px;
+				font-weight:300;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle3 {
+				line-height:16px;
+				font-weight:300;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle4 {
+				line-height:16px;
+				font-weight:500;
+				filter: alpha(opacity=30);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=30)';
+				opacity:0.3;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle5 {
+				line-height:16px;
+				font-weight:300;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle6 {
+				line-height:16px;
+				font-weight:700;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle7 {
+				line-height:16px;
+				font-weight:700;
+				color:#46afaf;
+			}
+			#g-arctic-chart-720 .g-aiPstyle8 {
+				line-height:16px;
+				font-weight:500;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle9 {
+				line-height:16px;
+				font-weight:300;
+				text-align:center;
+				letter-spacing:0.08333333333333em;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle10 {
+				line-height:16px;
+				font-weight:300;
+				text-align:center;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+		
+
+
+
+18 million
+sq. km
+
+
+Feb. 25
+2015 maximum
+
+
+Yearly fluctuations in area of Arctic covered by ice
+Millions of sq. km
+
+
+Each line represents one yearly cycle of sea ice fluctuations. The dotted line represents the average ice extent from 1981 to 2010
+
+
+1979
+
+
+16
+
+
+14
+
+
+Ice cover usually shrinks to its minimum in September
+
+
+2015
+
+
+Arctic ice cover usually reaches an annual maximum around March
+
+
+12
+
+
+Size of
+Canada
+
+
+Ice extent for 2010 to 2014 is shown with green lines
+
+
+1980
+
+
+8
+
+
+6
+
+
+2012
+Arctic ice extent reached the lowest point on record
+
+
+4
+
+
+Size of
+Alaska
+
+
+SUMMER
+
+
+WINTER
+
+
+Size of
+California
+
+
+JAN.
+
+
+FEB.
+
+
+MARCH
+
+
+APRIL
+
+
+MAY
+
+
+JUNE
+
+
+JULY
+
+
+AUG.
+
+
+SEPT.
+
+
+OCT.
+
+
+NOV.
+
+
+DEC.
+
+
+
+
+
+
+			#g-arctic-chart-300{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-chart-300 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-chart-300 .g-aiPstyle0 {
+				font-size:14px;
+				line-height:16px;
+				font-weight:700;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle1 {
+				font-size:14px;
+				line-height:16px;
+				font-weight:300;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle2 {
+				line-height:15px;
+				font-weight:300;
+				text-align:right;
+				filter: alpha(opacity=80);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';
+				opacity:0.8;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle3 {
+				line-height:15px;
+				font-weight:700;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle4 {
+				line-height:15px;
+				font-weight:300;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle5 {
+				font-size:14px;
+				line-height:15px;
+				font-weight:700;
+				color:#46afaf;
+			}
+			#g-arctic-chart-300 .g-aiPstyle6 {
+				font-size:12px;
+				line-height:15px;
+				font-weight:500;
+				filter: alpha(opacity=30);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=30)';
+				opacity:0.3;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle7 {
+				font-size:12px;
+				line-height:15px;
+				font-weight:300;
+				text-align:center;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+		
+
+
+
+Area of Arctic sea ice
+Millions of sq. km,
+1981 to 2010
+
+
+18
+million
+sq. km
+
+
+12
+
+
+Feb. 25
+2015 maximum
+
+
+Ice extent for 
+2010 to 2014
+is shown with 
+green lines
+
+
+6
+
+
+2012
+
+
+0
+
+
+FEB.
+
+
+APRIL
+
+
+JUNE
+
+
+AUG.
+
+
+OCT.
+
+
+DEC.
+
+
+
+
+
+Dr. Meier said that during the winter much of the ice near the edges of the ice sheet covering the Arctic is thin and seasonal, whereas some of the older and thicker ice melts during the summer. The differences between these seasonal processes mean winter ice cover does not help predict how much ice there will be by the end of summer. “When you lose summer ice you aren't really just losing it for that year, you're also losing some ice from many years ago,” he said. “That makes it harder for things to go back towards normal.”
+
+Scientists believe that the sharp long-term decline in Arctic sea ice is primarily driven by planetary warming that is occurring because of human emissions of greenhouse gases. The trend shows up most strongly in the summer readings.
+
+
+
+
+
+		.g-artboard {
+			margin:0 auto;
+		}
+	
+
+
+
+			#g-arctic-chart-945{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-chart-945 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-chart-945 .g-aiPstyle0 {
+				font-size:14px;
+				line-height:16px;
+				font-weight:300;
+				text-align:right;
+				filter: alpha(opacity=80);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';
+				opacity:0.8;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle1 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle2 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:700;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle3 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle4 {
+				font-size:12px;
+				line-height:14px;
+				font-weight:500;
+				filter: alpha(opacity=30);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=30)';
+				opacity:0.3;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle5 {
+				font-size:12px;
+				line-height:14px;
+				font-weight:700;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle6 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle7 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:700;
+				color:#46afaf;
+			}
+			#g-arctic-chart-945 .g-aiPstyle8 {
+				font-size:12px;
+				line-height:14px;
+				font-weight:500;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle9 {
+				font-size:14px;
+				line-height:17px;
+				font-weight:300;
+				text-align:center;
+				letter-spacing:0.08333333333333em;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+			#g-arctic-chart-945 .g-aiPstyle10 {
+				font-size:11px;
+				line-height:13px;
+				font-weight:300;
+				text-align:center;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+		
+
+
+
+18 million
+sq. km
+
+
+Each line represents one yearly cycle of sea ice fluctuations
+
+
+Yearly fluctuations in area of Arctic covered by ice
+Millions of sq. km
+
+
+Feb. 25
+2015 maximum
+
+
+1979
+
+
+16
+
+
+The dotted line represents the average ice extent from 1981 to 2010
+
+
+14
+
+
+2015
+
+
+Arctic ice cover usually reaches an annual maximum around March
+
+
+Ice cover usually shrinks to its minimum in September
+
+
+12
+
+
+Size of
+Canada
+
+
+Ice extent for 2010 to 2014 is shown with green lines
+
+
+1980
+
+
+8
+
+
+6
+
+
+2012
+Arctic ice extent reached the lowest point on record
+
+
+4
+
+
+Size of
+Alaska
+
+
+SUMMER
+
+
+WINTER
+
+
+Size of
+California
+
+
+JAN.
+
+
+FEB.
+
+
+MARCH
+
+
+APRIL
+
+
+MAY
+
+
+JUNE
+
+
+JULY
+
+
+AUG.
+
+
+SEPT.
+
+
+OCT.
+
+
+NOV.
+
+
+DEC.
+
+
+
+
+
+
+			#g-arctic-chart-720{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-chart-720 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-chart-720 .g-aiPstyle0 {
+				line-height:16px;
+				font-weight:300;
+				text-align:right;
+				filter: alpha(opacity=80);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';
+				opacity:0.8;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle1 {
+				line-height:16px;
+				font-weight:700;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle2 {
+				line-height:16px;
+				font-weight:300;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle3 {
+				line-height:16px;
+				font-weight:300;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle4 {
+				line-height:16px;
+				font-weight:500;
+				filter: alpha(opacity=30);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=30)';
+				opacity:0.3;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle5 {
+				line-height:16px;
+				font-weight:300;
+				text-align:center;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle6 {
+				line-height:16px;
+				font-weight:700;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle7 {
+				line-height:16px;
+				font-weight:700;
+				color:#46afaf;
+			}
+			#g-arctic-chart-720 .g-aiPstyle8 {
+				line-height:16px;
+				font-weight:500;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle9 {
+				line-height:16px;
+				font-weight:300;
+				text-align:center;
+				letter-spacing:0.08333333333333em;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+			#g-arctic-chart-720 .g-aiPstyle10 {
+				line-height:16px;
+				font-weight:300;
+				text-align:center;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+		
+
+
+
+18 million
+sq. km
+
+
+Feb. 25
+2015 maximum
+
+
+Yearly fluctuations in area of Arctic covered by ice
+Millions of sq. km
+
+
+Each line represents one yearly cycle of sea ice fluctuations. The dotted line represents the average ice extent from 1981 to 2010
+
+
+1979
+
+
+16
+
+
+14
+
+
+Ice cover usually shrinks to its minimum in September
+
+
+2015
+
+
+Arctic ice cover usually reaches an annual maximum around March
+
+
+12
+
+
+Size of
+Canada
+
+
+Ice extent for 2010 to 2014 is shown with green lines
+
+
+1980
+
+
+8
+
+
+6
+
+
+2012
+Arctic ice extent reached the lowest point on record
+
+
+4
+
+
+Size of
+Alaska
+
+
+SUMMER
+
+
+WINTER
+
+
+Size of
+California
+
+
+JAN.
+
+
+FEB.
+
+
+MARCH
+
+
+APRIL
+
+
+MAY
+
+
+JUNE
+
+
+JULY
+
+
+AUG.
+
+
+SEPT.
+
+
+OCT.
+
+
+NOV.
+
+
+DEC.
+
+
+
+
+
+
+			#g-arctic-chart-300{
+				position:relative;
+				overflow:hidden;
+			}
+			.g-aiAbs{
+				position:absolute;
+			}
+			.g-aiImg{
+				display:block;
+				width:100% !important;
+			}
+			#g-arctic-chart-300 p{
+				font-family:nyt-franklin,arial,helvetica,sans-serif;
+				font-size:13px;
+				line-height:18px;
+				margin:0;
+			}
+			#g-arctic-chart-300 .g-aiPstyle0 {
+				font-size:14px;
+				line-height:16px;
+				font-weight:700;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle1 {
+				font-size:14px;
+				line-height:16px;
+				font-weight:300;
+				text-align:right;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle2 {
+				line-height:15px;
+				font-weight:300;
+				text-align:right;
+				filter: alpha(opacity=80);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';
+				opacity:0.8;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle3 {
+				line-height:15px;
+				font-weight:700;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle4 {
+				line-height:15px;
+				font-weight:300;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle5 {
+				font-size:14px;
+				line-height:15px;
+				font-weight:700;
+				color:#46afaf;
+			}
+			#g-arctic-chart-300 .g-aiPstyle6 {
+				font-size:12px;
+				line-height:15px;
+				font-weight:500;
+				filter: alpha(opacity=30);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=30)';
+				opacity:0.3;
+				color:#000000;
+			}
+			#g-arctic-chart-300 .g-aiPstyle7 {
+				font-size:12px;
+				line-height:15px;
+				font-weight:300;
+				text-align:center;
+				filter: alpha(opacity=50);
+				-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)';
+				opacity:0.5;
+				color:#000000;
+			}
+		
+
+
+
+Area of Arctic sea ice
+Millions of sq. km,
+1981 to 2010
+
+
+18
+million
+sq. km
+
+
+12
+
+
+Feb. 25
+2015 maximum
+
+
+Ice extent for 
+2010 to 2014
+is shown with 
+green lines
+
+
+6
+
+
+2012
+
+
+0
+
+
+FEB.
+
+
+APRIL
+
+
+JUNE
+
+
+AUG.
+
+
+OCT.
+
+
+DEC.
+
+
+
+
+
+Dr. Meier said that during the winter much of the ice near the edges of the ice sheet covering the Arctic is thin and seasonal, whereas some of the older and thicker ice melts during the summer. The differences between these seasonal processes mean winter ice cover does not help predict how much ice there will be by the end of summer. “When you lose summer ice you aren't really just losing it for that year, you're also losing some ice from many years ago,” he said. “That makes it harder for things to go back towards normal.”
+
+18 millionsq. kmEach line represents one yearly cycle of sea ice fluctuationsYearly fluctuations in area of Arctic covered by iceMillions of sq. kmFeb. 252015 maximum197916The dotted line represents the average ice extent from 1981 to 2010142015Arctic ice cover usually reaches an annual maximum around MarchIce cover usually shrinks to its minimum in September12Size ofCanadaIce extent for 2010 to 2014 is shown with green lines1980862012Arctic ice extent reached the lowest point on record4Size ofAlaskaSUMMERWINTERSize ofCaliforniaJAN.FEB.MARCHAPRILMAYJUNEJULYAUG.SEPT.OCT.NOV.DEC.18 millionsq. kmFeb. 252015 maximumYearly fluctuations in area of Arctic covered by iceMillions of sq. kmEach line represents one yearly cycle of sea ice fluctuations. The dotted line represents the average ice extent from 1981 to 201019791614Ice cover usually shrinks to its minimum in September2015Arctic ice cover usually reaches an annual maximum around March12Size ofCanadaIce extent for 2010 to 2014 is shown with green lines1980862012Arctic ice extent reached the lowest point on record4Size ofAlaskaSUMMERWINTERSize ofCaliforniaJAN.FEB.MARCHAPRILMAYJUNEJULYAUG.SEPT.OCT.NOV.DEC.Area of Arctic sea iceMillions of sq. km,1981 to 201018millionsq. km12Feb. 252015 maximumIce extent for 2010 to 2014is shown with green lines620120FEB.APRILJUNEAUG.OCT.DEC.Dr. Meier said that during the winter much of the ice near the edges of the ice sheet covering the Arctic is thin and seasonal, whereas some of the older and thicker ice melts during the summer. The differences between these seasonal processes mean winter ice cover does not help predict how much ice there will be by the end of summer. “When you lose summer ice you aren't really just losing it for that year, you're also losing some ice from many years ago,” he said. “That makes it harder for things to go back towards normal.”
+
+Sources: National Snow and Ice Data Center; NASAGlobe image by NASAAdvertisement

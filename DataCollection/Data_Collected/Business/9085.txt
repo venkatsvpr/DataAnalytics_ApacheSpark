@@ -1,0 +1,44 @@
+
+
+      By GUILBERT GATES, 
+    
+JACK EWING, 
+    
+KARL RUSSELL and 
+    
+DEREK WATKINS
+
+UPDATED March 16, 2017
+
+Volkswagen admitted that 11 million of its vehicles were equipped with software that was used to cheat on emissions tests. This is how the technology works and what it now means for vehicle owners.
+Related Article
+
+The software sensed when the car was being tested and then activated equipment that reduced emissions, United States officials said. But the software turned the equipment down during regular driving, increasing emissions far above legal limits, most likely to save fuel or to improve the car’s torque and acceleration. The software was modified to adjust components such as catalytic converters or valves used to recycle some of the exhaust gasses. The components are meant to reduce emissions of nitrogen oxide, a pollutant that can cause emphysema, bronchitis and other respiratory diseases.
+              
+              
+            
+Exhaust system of a Volkswagen GolfVolkswagen has used two basic types of technology to reduce emissions of nitrogen oxides from diesel engines, by either trapping the pollutants or treating them with urea. The first type is shown here.Main computerEngine control moduleDiesel oxidationcatalytic converterMufflerOxygen sensorOxygen sensorH2S catalyticconverterDiesel particulate filterExhaust valveTemperature sensorsMain computerEngine control moduleDiesel oxidationcatalytic converterMufflerDiesel particulate filterH2S catalyticconverterExhaust valveMain computerEngine controlmoduleDiesel oxidation catalyticconverterMufflerDiesel particulate filterH2S catalytic converterExhaust valveMain computer
+module
+moduleDiesel oxidation catalytic converterMufflerDiesel particulate filterH2S catalytic converterExhaust valveNitrogen oxide trapThis system traps nitrogen oxides, reducing toxic emissions. But the engine must regularly use more fuel to allow the trap to work.
+
+The car’s computer could save fuel by allowing more pollutants to pass through the exhaust system. Saving fuel is one potential reason that Volkswagen’s software could have been altered to make cars pollute more, according to researchers at the International Council on Clean Transportation.
+The on-road testing in May 2014 that led the California Air Resources Board to investigate Volkswagen was conducted by researchers at West Virginia University. They tested emissions from two VW models equipped with the 2-liter turbocharged 4-cylinder diesel engine. The researchers found that when tested on the road, some cars emitted almost 40 times the permitted levels of nitrogen oxides.
+              
+              
+            
+Average emissions of nitrogen oxides in on-road testingGRAMS OF NITROGEN OXIDES PER KILOMETER2011 Volkswagen Jetta00.10.20.30.40.50.60.70.80.91.01.11.21.31.41.515 times limitHIGHWAY25 timesURBAN (LOS ANGELES)37 timesURBAN (SAN DIEGO)38 timesRURAL (UP AND DOWNHILL)2012 Volkswagen Passat9 times limitHIGHWAY20 timesURBAN (LOS ANGELES)17 timesURBAN (SAN DIEGO)17 timesRURAL (UP AND DOWNHILL)U.S. limit.04 grams/kilometerAverage emissions of nitrogen oxides in on-road testingGRAMS OF NITROGEN OXIDES PER KILOMETER2011 Volkswagen Jetta00.20.40.60.81.01.21.415 times limitHIGHWAY25 timesURBAN (LOS ANGELES)37 timesURBAN (SAN DIEGO)38 timesRURAL (UP AND DOWNHILL)2012 Volkswagen Passat9 timesHIGHWAY20 timesURBAN (LOS ANGELES)17 timesURBAN (SAN DIEGO)17 timesRURAL (UP AND DOWNHILL)U.S. limit.04 grams/kilometerAverage emissionsof nitrogen oxidesin on-road testingGRAMS OF NITROGEN OXIDESPER KILOMETER2011 Volkswagen Jetta00.51.01.515 times limitHIGHWAY25 timesURBAN (LOS ANGELES)37 timesURBAN (SAN DIEGO)38 timesRURAL (UP AND DOWNHILL)2012 Volkswagen Passat9 times limitHIGHWAY20 timesURBAN (LOS ANGELES)17 timesURBAN (SAN DIEGO)17 timesRURAL (UP AND DOWNHILL)U.S. limit.04 grams/kilometer
+The Environmental Protection Agency said in September 2015 that it would order Volkswagen to recall seven of its American car models with affected engines, which amount to nearly 600,000 vehicles. The vast majority of the cars — about 8.5 million — are in Europe and include Skoda and Seat cars not sold in the United States. The rest of the vehicles are scattered around Asia, Africa and South America, where diesels account for a relatively small percentage of cars sold.
+              
+              
+            
+
+The E.P.A. said on November 2015 that it had found the same test-cheating software on additional Volkswagen and Audi diesel models and on a Porsche model. The agency said it covered about 10,000 cars sold in the United States since the 2014 model year. But in meetings with the E.P.A., the company admitted that all model years since 2009 with its 3-liter diesel engines contained the software as well. The latest disclosure covers an additional 80,000 vehicles.
+              
+              
+            
+
+It’s still unclear.In the United States, Volkswagen has reached settlements with federal officials to fix or buy back all affected vehicles, on top of compensating owners for having misled them over their cars’ emissions.In June, it said it would spend about $10 billion to buy back the roughly 475,000 Volkswagens and Audi A3 models that have 2-liter engines. The company also agreed on Dec. 20 to fix or buy back 80,000 vehicles with 3-liter engines. It will try to fix a majority of those to be compliant with emissions standards, but some owners will be offered a buyback option outright. Owners who want to sell their cars back to Volkswagen can register on a website, VWCourtSettlement.com. As part of the June agreement, VW agreed to buy back or fix affected vehicles by December 2018. The Federal Trade Commission has said that consumers could expect to get roughly $12,500 for an older-model Jetta to as much as $44,000 for a 2014 Audi. In Europe, the company said it would install a small tubular part into some of its engines to help them come into line with clean-air standards there. The part, which is about the size of the cardboard inside a roll of paper towels, does not lower emissions enough to comply with American standards.
+              
+              
+            
+Advertisement

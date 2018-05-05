@@ -1,0 +1,27 @@
+
+JUNE 28, 2015
+
+Related Article
+Clauses in privacy policies that enable online services to transfer or sell personal data about consumers as part of a merger, bankruptcy or other transaction are becoming common practice, an examination by The New York Times of the top 100 websites in the United States has found. The prevalence of these data-transfer clauses illustrates how little control people typically have over the dissemination of information about them. Details  from privacy policies of five companies offer a sampling of the information that may be collected and how companies may handle the data in the event of a sale or bankruptcy.  -- Natasha SingerWhat the social network may collect:
+From the policy:
+Plain English:
+Facebook is up front about the fact that your data could end up somewhere else. What the deals service may collect:
+From the policy:
+Plain English:If Groupon were ever to be acquired or sell off assets, it may share your personal information with buyers. The clause is positioned amid a  long list of the company's data-sharing practices.
+Comment from Groupon:
+"It's clearly bulleted in the section that describes when and why we disclose information, which is the most obvious place to put it," said Bill Roberts, a spokesman for Groupon. "We think this is the most transparent and simplest way to communicate the information to consumers." 
+
+What the messaging service may collect:
+From the policy:
+Plain English:
+Anything may happen to your data.
+What the e-commerce site may collect:
+From the policy:
+Plain EnglishIt's rare for a popular site to promise to notify its users and give them a chance to opt out of having their information change hands. Etsy is among the few in offering this choice.
+Comment from Etsy:
+“People are willing to share their personal information with us because they trust the company,” said Jordan Breslow, Etsy's general counsel. In the event that Etsy were ever acquired by another company, he said, Etsy users “should have the option to say, ‘you are not the people I made that agreement with about my data, so I am opting out.’ ”
+What the task marketplace may collect:
+From the policy:
+Plain English:
+TaskRabbit won't share your most personal details with unaffiliated companies -- except if the company decides to sell or share your data as part of merger, sale or other business transaction.
+Comment from TaskRabbit:"TaskRabbit does not affirmatively collect data about a user’s health or religious practices, etc," said Jamie Viggiano, a TaskRabbit spokeswoman. "The language in our privacy policy is standard and merely makes clear that we won’t transfer any of that data either. This is just belt and suspenders to make clear that such information is neither collected nor shared."To clarify, we do not currently share any personal information with any non-agent third party. The second sentence is a standard clause in any company’s privacy policy and is specifically only referring to a change of control event (like a merger, acquisition, etc.). In the event that TaskRabbit is purchased by another entity, all of TaskRabbit’s user information will be transferred with the platform. Such section is explicitly limited to such a change of ownership and is not contemplating any other transfers to any third parties."Advertisement

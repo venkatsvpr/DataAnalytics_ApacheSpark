@@ -1,0 +1,23 @@
+Tech historians will look at Oct. 22, as a watershed. Cloud computing is no longer on the way, just a contender, or even a competitor to traditional enterprise technology companies. Instead, it is here, full force, and all the signs are that it is about to get a lot bigger, fast.
+
+
+
+            Tech Stocks        
+
+            Tracking Amazon, Alphabet and Microsoft.        
+
+
+#nyttech-stock-chart { width: 99.9%; margin: 0 auto; }
+#nyttech-stock-chart img { width: 100%; }
+
+
+
+
+
+Amazon, Alphabet and Microsoft stock prices.
+
+
+
+
+
+            Tracking Amazon, Alphabet and Microsoft.        A few data points: When the stock market closed on Thursday, Amazon, Google and Microsoft — arguably the three largest cloud businesses — declared their quarterly earnings. One hour later, their collective market capitalization had grown by more than $100 billion because of their robust results, fueled partly by cloud growth. That $100 billion is 50 percent higher than the $67 billion Dell plans to spend buying EMC/VMware, the biggest tech merger ever. Digging in, Amazon had more operating income from Amazon Web Services, its business renting computing and software applications, than it did from combined sales of goods in the United States and internationally. At Microsoft, operating income from cloud and applications businesses were far better, as a percentage of sales, than the sector that includes the Windows operating system, long Microsoft’s crown jewel.A year ago, Amazon Web Services sales grew 87 percent faster than Amazon’s North American retail business. AWS is still smaller than retail, but now it is growing 179 percent faster than sales of goods. Microsoft’s Office 365, a cloud-centric software application, started in June 2011 and has 18.2 million users; 16 percent of them, 3 million new users, showed up in the last three months. Google still makes most of its billions from advertising, but talked up its cloud prospects during its earnings call.These numbers came less than two weeks after the Dell-EMC announcement. Meanwhile, IBM reported earnings earlier this week, and its stock fell more than 5 percent. Hewlett-Packard is on the cusp of splitting into two companies in an effort to move faster in a changing market. Oracle begins its big annual user conference on Sunday, and will doubtless have much to say about its cloud business.The real question may be: Which group of companies are the real leaders now?

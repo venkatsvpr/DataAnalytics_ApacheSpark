@@ -1,0 +1,8 @@
+
+Tech Tip By                     
+ J. D. BIERSDORFER
+ 
+FEB. 2, 2016
+Q. I switched my number from an iPhone to a new Android phone, but I’m not getting my text messages now. Why?A. If you did not turn off Apple’s iMessage service on your old iPhone, your text messages are probably still going to your previous handset. If you still have the iPhone, start it up and open the Settings icon on the home screen. Select Messages and then turn off the button for the iMessage service.Once you have disabled iMessage, go back to the iOS Settings and select FaceTime. Turn off the FaceTime service as well. (If you were able to use the same SIM card between the two phones, pop it temporarily back into the iPhone while you turn off iMessage and FaceTime before returning the card to the new phone.) Next, have someone send you a text message to test that it will now arrive on your Android phone.If you no longer have the iPhone or the device is inoperable, you can go to Apple’s website and deregister your phone number from the iMessage service. Point your browser to https://selfsolve.apple.com/deregister-imessage, enter your phone number and wait for the six-digit code from Apple to confirm the separation from iMessage.Personal Tech invites questions about computer-based technology to techtip@nytimes.com. This column will answer questions of general interest, but letters cannot be answered individually.A version of this article appears in print on February 4, 2016, on Page B8 of the New York edition with the headline: Retrieving Texts From iMessage.  Order Reprints| Today's Paper|Subscribe
+
+We’re interested in your feedback on this page. Tell us what you think.See More »
