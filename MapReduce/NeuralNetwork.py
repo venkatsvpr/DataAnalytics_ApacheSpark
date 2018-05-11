@@ -33,3 +33,9 @@ result = model.transform(test)
 predictionAndLabels = result.select("prediction", "label")
 evaluator = MulticlassClassificationEvaluator(metricName="accuracy")
 print("Test set accuracy = " + str(evaluator.evaluate(predictionAndLabels)))
+
+
+#test = spark.read.format("libsvm").load("/home/hadoop/spark/article_dataset.txt")
+#newpred = model.transform(test)
+#newpred.show()
+#spark.stop()

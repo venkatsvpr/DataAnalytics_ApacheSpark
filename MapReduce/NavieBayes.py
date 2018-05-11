@@ -57,7 +57,7 @@ if __name__ == "__main__":
     print("Test set accuracy = " + str(accuracy))
     # $example off$
 
-    test = spark.read.format("libsvm").load("/home/hadoop/spark/article_dataset.txt")
-    newpred = model.transform(test)
-    newpred.show()
-    spark.stop()
+    #test = spark.read.format("libsvm").load("/home/hadoop/spark/article_dataset.txt")
+    #newpred = model.transform(test)
+    #newpred.show()
+    #spark.stop()
