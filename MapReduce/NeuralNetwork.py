@@ -18,8 +18,8 @@ train = splits[0]
 test = splits[1]
 
 # specify layers for the neural network:
-# input layer of size 4 (features), two intermediate of size 5 and 4
-# and output of size 3 (classes)
+# input layer of size 174 (features),
+# and output of size 4 (classes)
 layers = [174, 4]
 
 # create the trainer and set its parameters

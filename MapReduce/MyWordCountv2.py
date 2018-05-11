@@ -1,3 +1,6 @@
+# Code referred from spark examples
+# just the idea to parse unicode characs -  https://stackoverflow.com/questions/16467479/normalizing-unicode
+#
 from __future__ import print_function
 import  nltk
 nltk.download('punkt')
@@ -93,6 +96,7 @@ if __name__ == "__main__":
     feat_file = open("featureset.txt","w+")
     for word in Feature_Set:
         feat_file.write(word)
+        feat_file.write("\n")
     feat_file.close()
 
     class_id = -1
